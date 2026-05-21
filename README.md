@@ -4,7 +4,7 @@ Este proyecto es el resultado de la Actividad S4-S5 del curso de **Sistemas de I
 
 ## 👥 Integrantes del Equipo
 * Royser 
-* Eddy 
+* Giraldo Barreto Eddy - 0202114032
 * Hinostroza Melo Diego Jeanpiere - 0202414019
 * Ángel 
 
