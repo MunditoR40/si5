@@ -1,5 +1,7 @@
 package uns.angel.si5.model;
 
+import jakarta.persistence.*;
+
 import java.util.Date;
 
 @Entity

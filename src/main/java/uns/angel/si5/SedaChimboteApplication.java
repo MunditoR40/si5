@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Si5Application {
+public class SedaChimboteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Si5Application.class, args);
+
+		SpringApplication.run(SedaChimboteApplication.class, args);
 	}
 
 }
