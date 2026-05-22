@@ -5,7 +5,7 @@ Este proyecto es el resultado de la Actividad S4-S5 del curso de **Sistemas de I
 ## 👥 Integrantes del Equipo
 <<<<<<< HEAD
 * Royser 
-* Giraldo Barreto Eddy - 202114032
+* Giraldo Barreto Eddy - 0202114032
 =======
 * Avila Robles Jorge Royser - 0202414003
 * Giraldo Barreto Eddy Joseph - 0202114032

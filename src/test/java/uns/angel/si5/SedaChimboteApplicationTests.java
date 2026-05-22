@@ -8,6 +8,7 @@ class SedaChimboteApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
