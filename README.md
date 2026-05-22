@@ -3,7 +3,7 @@
 Este proyecto es el resultado de la Actividad S4-S5 del curso de **Sistemas de Información I** de la **Universidad Nacional del Santa (UNS)**. Consiste en el modelado Orientado a Objetos (UML) y su posterior implementación utilizando Spring Boot y bases de datos en memoria.
 
 ## 👥 Integrantes del Equipo
-* Royser 
+* Avila Robles Jorge Royser - 0202414003
 * Eddy 
 * Hinostroza Melo Diego Jeanpiere - 0202414019
 * Ángel 
