@@ -3,13 +3,8 @@
 Este proyecto es el resultado de la Actividad S4-S5 del curso de **Sistemas de Información I** de la **Universidad Nacional del Santa (UNS)**. Consiste en el modelado Orientado a Objetos (UML) y su posterior implementación utilizando Spring Boot y bases de datos en memoria.
 
 ## 👥 Integrantes del Equipo
-<<<<<<< HEAD
-* Royser 
-* Giraldo Barreto Eddy - 202114032
-=======
 * Avila Robles Jorge Royser - 0202414003
 * Giraldo Barreto Eddy Joseph - 0202114032
->>>>>>> b1990a6c362d0d28c6fa71e7da577d58bdf412e7
 * Hinostroza Melo Diego Jeanpiere - 0202414019
 * Rojas León Ángel Edmundo - 0202414044
 
